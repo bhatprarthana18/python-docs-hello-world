@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, World!, Git push triggered the app!"
+    return "Hello, World!, Workflow disable check"

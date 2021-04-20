@@ -92,3 +92,5 @@ ENV/
 # Visual Studio Code
 .vscode/
 
+#Pycharm Settings
+.idea/
